@@ -15,7 +15,8 @@ Segue abaixo algumas técnicas que foram usadas para a construção:
 * Navegação e links com utilização de **pseudo-classe** em CSS3
 * Importação de **vídeo externo**
 
-<a src="https://anjinha-oliveira.github.io/android/" alt="Link do site Android" target="_self">🔗 Para visitar website na clique aqui</a>
+&nbsp;
+🔗[Para visitar website clique aqui](https://anjinha-oliveira.github.io/android/)
 
 ---
 <div align="center">
